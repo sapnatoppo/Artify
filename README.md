@@ -38,9 +38,9 @@ MongoDB connection string
 Razorpay KEY_ID and KEY_SECRET
 
 4. Run the application:
-# Start server
+Start server
 npm start
-# Start client
+Start client
 npm start
 
 ---
@@ -48,30 +48,30 @@ npm start
 ## 🚀 Usage
 
 ## **For Artists**
- **Register / Login**
+## **Register / Login**
   • Create an account or log in to access the artist dashboard
- **Add Artwork**
+## **Add Artwork**
   • Upload artwork images
   • Add title, description, price, and category
- **Manage Inventory**
+ ## **Manage Inventory**
   • Track available pieces
   • Edit or remove listings anytime
- **View Orders**
+ ## **View Orders**
   • Monitor incoming orders in real-time
   • Check payment status and order details
- **Profile Management**
+ ## **Profile Management**
   • Update personal info and payment details
   • Set up payout preferences via Razorpay
 
  ## **For Buyers**
- **Browse Artwork**
+ ## **Browse Artwork**
   • Explore gallery and filter by category, price, or popularity
- **Add to Cart**
+ ## **Add to Cart**
   • Select artwork and add to shopping cart
- **Secure Checkout**
+## **Secure Checkout**
   • Complete payment via Razorpay
   • Receive order confirmation and payment receipt via email
- **Order Tracking**
+ ## **Order Tracking**
   • View status of purchases in account
   • Contact the artist directly if needed
 
